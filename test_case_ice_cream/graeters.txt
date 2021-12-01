@@ -1,0 +1,6 @@
+Ice Cream Flavors at Graeter's
+at graeters
+graeters.rpt
+1-14, Flavor
+15-22, Chips?
+27-36, Delicious?

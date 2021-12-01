@@ -1,0 +1,6 @@
+Ice Cream Flavors NOT at Graeter's
+not graeters
+not-graeters.rpt
+1-14, Flavor
+15-22, Chips?
+27-36, Delicious?
